@@ -30,8 +30,10 @@ template_id = os.environ["TEMPLATE_ID"]
        city: 城市编码，api接口文档处查询
 '''
 user_id_list = [
-    {'user_id': 'olqaK5sXw4RM4PEaRgi9I0kH4ldE', "name": 'ㅤ', "date": "2021-03-01", "birthday": "03-26",
-     'city': '440300'}
+    {'user_id': 'o606d51lPivhpoULNLEyB4epHvyw', "name": '~', "date": "2016-10-01", "birthday": "04-10",
+     'city': '610100'},
+     {'user_id': 'o606d5-w6KD9MFicI1Eb8WtjmKiE', "name": "草莓甜甜圈🍓", "date": "2016-10-01", "birthday": "10-03",
+     'city': '610100'},
 ]
 
 
