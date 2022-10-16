@@ -34,6 +34,8 @@ user_id_list = [
      'city': '610100'},
      {'user_id': 'o606d5-w6KD9MFicI1Eb8WtjmKiE', "name": "草莓甜甜圈🍓", "date": "2016-10-01", "birthday": "10-03",
      'city': '610100'},
+     {'user_id': 'o606d56q3QIMrs_pvHy7ur0tjNOk', "name": "。", "date": "2017-08-15", "birthday": "08-26",
+     'city': '610100'},
 ]
 
 
